@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_label">Cubes Live Wallpaper</string>
+	<string name="app_name">Cubes Live Wallpaper</string>
+	<string name="description">OpenGL ES 2.0 cubes live wallpaper with physics.</string>
+	<string name="wallpaper_settings">Settings</string>
+    <string name="settings_delay_title">Delay[ms] to save CPU</string>
+    <string name="settings_cubes_title">Number of cubes</string>    
+</resources>
